@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpunit colors="true"
+		 stopOnFailure="false">
+	<testsuites>
+		<testsuite name="Trzeci">
+			<directory>tests</directory>
+			<file></file>
+		</testsuite>
+	</testsuites>
+</phpunit>
